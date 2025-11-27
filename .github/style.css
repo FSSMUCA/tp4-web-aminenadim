@@ -1,0 +1,13 @@
+h2 {
+  font-weight: 700;
+  color: #0d6efd; 
+}
+
+.card img {
+  height: 180px;
+  object-fit: cover;
+}
+.carousel-item img {
+  height: 350px;     
+  object-fit: cover; 
+}
